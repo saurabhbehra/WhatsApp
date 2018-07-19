@@ -1,0 +1,52 @@
+.row1{
+	background:#138d75;
+	padding-top:15px;
+}
+.rowitem{
+	font-family: 'Caudex', serif;
+	font-size:30px;
+	color:white;
+}
+.column1{
+	background:#fbfcfc;
+}
+.row2{
+	padding-top:15px;
+}
+
+.column2{
+	background:#2c3e50;
+}
+.pro{
+	margin-top:25px;
+	margin-left:4vw;
+}
+.pro1{
+	margin-top:25px;
+	margin-left:3vw;
+}
+.textname{
+	margin-top:30px;
+	
+}
+.chatbox{
+	min-height:550px;
+}
+.calls{
+	margin-top:30px;
+}
+.row3{
+	background: ;
+}
+.row4{
+	background:#f5eef8;
+}
+.prorow{
+	background:white;
+}
+.content{
+	color:black;
+}
+
+	
+
